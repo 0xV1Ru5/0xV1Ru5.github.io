@@ -23,7 +23,7 @@ timezone: Europe/Bucharest
 
 title: Vlad Pandichi                          # the main title
 
-tagline: Cybersecurity Enthusiast  # it will display as the sub-title
+tagline: Cybersecurity Enthusiast | CTF Player  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Talks about Cybersecurity, TryHackMe, HackTheBox, CVEs, Malware Analysis, Virtualization, Azure, Programming, CTF
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: V!Ru5
+  name: BITFRAGMENT
   email: virus@bitfragment.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link

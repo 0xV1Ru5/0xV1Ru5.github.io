@@ -31,11 +31,11 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bitfragment.com'
 
-#github:
-  #username: github_username             # change to your github username
+github:
+  username: 0xV1Ru5
 
 twitter:
-  username: VladPandichi            # change to your twitter username
+  username: VladPandichi
 
 social:
   # Change to your full name.
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark  # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
